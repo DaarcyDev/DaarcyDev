@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Liam Álvarez Peralta, a developer driven by creativity, curiosity, and a deep love for building tools that empower people. My expertise revolves around Linux, open source development, and languages like JavaScript, Python, and PHP.
+I’m Liam Alvarez Peralta, a developer driven by creativity, curiosity, and a deep love for building tools that empower people. My expertise revolves around Linux, open source development, and languages like JavaScript, Python, and PHP.
 I’m the creator of projects like terminal-bg and term-lyrics, which combine minimalism, functionality, and the freedom of the Linux ecosystem. I believe in crafting software that adapts to people—not the other way around.
 Currently focused on refining my skills in full-stack development and data science, I enjoy pushing the limits of what’s possible with personal projects and sharing them with the community on GitHub.
 I see programming not just as a job, but as a canvas for experimentation and growth. Always ready for the next challenge.
